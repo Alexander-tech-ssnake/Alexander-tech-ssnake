@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Alexander
 
-<!--
-**Alexander-tech-ssnake/Alexander-tech-ssnake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingenieria de Sistemas orientado a ciberseguridad defensiva.
 
-Here are some ideas to get you started:
+## Áreas
+- Linux: Administración, scripting con Bash, hardening de servidores
+- Python: Automatización, scripts de seguridad, análisis de malware básico
+- Redes: Protocolos TCP/IP, Wireshark, configuración de firewalls, Vlanas
+- Seguridad: Reconocimiento, análisis de vulnerabilidades, CTFs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos destacados
+- [Home Lab de Ciberseguridad](https://tu-link) — Entorno virtual con máquinas vulnerables para practicar en TryHackMe y HackTheBox
+- [Scanner de puertos en Python](https://tu-link) — Script automatizado para detección de servicios abiertos
+- [Dashboard de monitoreo de red](https://tu-link) — Visualización de tráfico con Wireshark y Python
+(se irá llenando a medida que avancemos)
+## Formación y aprendizaje
+- TryHackMe — Rutas de Defensive Security y Jr. Penetration Tester
+- Plataformas: [HackTheBox](https://hackthebox.com), [TryHackMe](https://tryhackme.com)
+- Certificaciones en curso: [ej. CompTIA Security+, eJPT, etc.]
+
+## Contacto
+[LinkedIn, correo profesional]
